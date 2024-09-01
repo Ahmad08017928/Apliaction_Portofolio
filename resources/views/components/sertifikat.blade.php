@@ -53,6 +53,15 @@
                 </a>
                 {{-- <p class="font-md text-base text-secondary">This blog page features an in-depth collection of articles, allowing users to search and explore various topics efficiently.</p> --}}
             </div>
+            <div class="mb-12 p-4 md:w-1/2">
+                <div class="rounded-md shadow-md overflow-hidden">
+                    <img src="{{ asset('img/Screenshot 2024-09-01 190114.png') }}" alt="ransomware" width="w-full">
+                </div>
+                <a href="{{ asset('certificate/ilham adi purnomo.pdf') }}" class="visited:text-blue-500">
+                    <h3 class="font-semibold text-dark text-xl mt-5 mb-3 active:text-green-500">Certificate of Participation in Defender Ransomware</h3>
+                </a>
+                {{-- <p class="font-md text-base text-secondary">This blog page features an in-depth collection of articles, allowing users to search and explore various topics efficiently.</p> --}}
+            </div>
         </div>
     </div>
 </section>

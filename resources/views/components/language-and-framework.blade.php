@@ -4,7 +4,7 @@
             <div class="mx-auto text-center mb-16">
                 <h4 class="font-semibold text-lg text-primary">Language and Framework</h4>
                 <h2 class="font-bold text-white text text-3xl mb-4 sm:text-4xl lg:text-5xl">languages and frameworks</h2>
-                <p class="font-medium text-md text-secondary md:text-lg">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti provident nemo delectus?</p>
+                <p class="font-medium text-md text-secondary md:text-lg">Dengan kombinasi bahasa dan framwork yang saya kuasai, saya dapat menciptakan solusi web yang modern dan efektif.</p>
             </div>
         </div>
 

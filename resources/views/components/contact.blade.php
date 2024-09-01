@@ -4,7 +4,7 @@
             <div class=" mx-auto text-center mb-16">
                 <h4 class="font-semibold text-lg text-primary">Contact</h4>
                 <h2 class="font-bold text-dark text text-3xl mb-4 sm:text-4xl lg:text-5xl">Contact Me</h2>
-                <p class="font-medium text-md text-secondary md:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, voluptate.</p>
+                <p class="font-medium text-md text-secondary md:text-lg">Hubungi Saya Disini</p>
             </div>
         </div>
         <form action="{{ route('contact_send') }}" method="POST">

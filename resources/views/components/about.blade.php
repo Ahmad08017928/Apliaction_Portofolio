@@ -5,11 +5,11 @@
         <div class="w-full px-4 mb-10 lg:w-1/2">
         <h4 class="font-bold uppercase text-primary text-lg mb-3">Tentang Saya</h4>
         <h2 class="font-bold text-dark text-2xl mb-5 max-w-md lg:text-3xl">Yuk, belajar web programming di CodeCraft!</h2>
-        <p class="font-medium text-base text-secondary max-w-xl lg:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda veniam quo similique ipsum ipsa quidem nisi?</p>
+        <p class="font-medium text-base text-secondary max-w-xl lg:text-lg">Saya hadir untuk kamu yang ingin mendalami dunia web programming dengan cara yang seru dan praktis. Tidak perlu bingung lagi, kita belajar dari dasar sampai mahir bersama-sama!</p>
         </div>
         <div class="w-full px-4 lg:w-1/2">
         <h3 class="font-semibold text-dark text-2xl mb-4 lg:text-3xl lg:pt-10">Mari berteman</h3>
-        <p class="font-medium text-base text-secondary mb-6 lg:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit corrupti sit ex dolores repudiandae doloribus voluptatem dignissimos sapiente!</p>
+        <p class="font-medium text-base text-secondary mb-6 lg:text-lg">Jangan ragu untuk menghubungi saya! Saya selalu terbuka untuk berbagi ilmu, diskusi, atau bahkan sekedar ngobrol tentang coding dan teknologi. Let's connect and grow together!</p>
         <div class="flex items-center">
             <!-- Instagram -->
             <a href="#" target="_blank" class="w-9 h-9 mr-3 rounded-full flex justify-center items-center border border-slate-300 text-slate-300 hover:border-primary hover:bg-primary hover:text-white">
